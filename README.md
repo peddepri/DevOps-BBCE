@@ -20,3 +20,6 @@ docker run --rm -it -p 8080:8080 ppedde/reader:1.1
 docker run --rm -it -p 8082:8082 ppedde/writer:1.1 
 
 foi corrigido as portas conforme a aplicação e o requirements.txt para instalação dos pacotes.
+
+2. Criação de Estrutura de Recursos Cloud com Terraform:
+Utilize o Terraform para criar a infraestrutura de nuvem necessária na AWS. Isso pode incluir a criação de instâncias EC2, grupos de segurança, VPCs, sub-redes, bancos de dados, load balancers e qualquer outro recurso necessário para suas aplicações.
