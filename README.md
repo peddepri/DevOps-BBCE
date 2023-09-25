@@ -14,7 +14,9 @@ docker build -t ppedde/writer:1.1 .
 Após o build, rodar a aplicação
 
 docker run --rm -it -p 3000:3000 ppedde/frontend:1.1 
+
 docker run --rm -it -p 8080:8080 ppedde/reader:1.1
+
 docker run --rm -it -p 8082:8082 ppedde/writer:1.1 
 
 foi corrigido as portas conforme a aplicação e o requirements.txt para instalação dos pacotes.
