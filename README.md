@@ -26,3 +26,6 @@ Utilize o Terraform para criar a infraestrutura de nuvem necessária na AWS. Iss
 
 3. Configuração do Kubernetes:
 Implemente um cluster Kubernetes na infraestrutura criada com Terraform, usando ferramentas como o Amazon EKS.
+
+4. Implementação de Pipelines de CI/CD:
+Configure pipelines de CI/CD para cada aplicação (frontend e dois backends). Use ferramentas como o Azure DevOps, GitLab CI/CD, Jenkins, ou qualquer outra ferramenta de CI/CD de sua escolha. Certifique-se de que as etapas de construção, teste e implantação estejam bem definidas.
