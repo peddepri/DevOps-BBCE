@@ -23,3 +23,6 @@ foi corrigido as portas conforme a aplicação e o requirements.txt para instala
 
 2. Criação de Estrutura de Recursos Cloud com Terraform:
 Utilize o Terraform para criar a infraestrutura de nuvem necessária na AWS. Isso pode incluir a criação de instâncias EC2, grupos de segurança, VPCs, sub-redes, bancos de dados, load balancers e qualquer outro recurso necessário para suas aplicações.
+
+3. Configuração do Kubernetes:
+Implemente um cluster Kubernetes na infraestrutura criada com Terraform, usando ferramentas como o Amazon EKS.
