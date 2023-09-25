@@ -1,4 +1,5 @@
-# Efetuando correção no dockerfile 
+# Desafio DevOps BBCE
+
 
 1. Correção de Erros nas Aplicações:
 Identifique os erros nas três aplicações (frontend e dois backends) e corrija-os. Isso pode envolver depuração de código, correção de bugs, configuração adequada e resolução de problemas de dependências.
